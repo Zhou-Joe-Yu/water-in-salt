@@ -1,3 +1,5 @@
+%%%This code is used to calculate the ionic cluster distribution. Start from one cation and search the neighboring oxygen atom in the counterion. 
+%%%Then start from the all the four oxygen atoms from the counterion as the center and search the neighboring cation. Repeat this process.
 clear all
 close all
 
