@@ -1,3 +1,6 @@
+%%divide the trajectory into different parts based on the generated index
+%%calculate the MSD of each part of trajectory
+%%average the MSD with different length
 clear all
 close all
 
